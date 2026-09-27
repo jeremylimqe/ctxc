@@ -44,7 +44,6 @@ def normalize_suffixes(extensions: list[str]) -> set[str]:
 
 
 def _serialize_block(block_id: str, data: bytes) -> bytes:
-    """Use ctxc's provisional LF-framed Context Blocks layout."""
     if (
         not block_id
         or block_id != block_id.strip()
