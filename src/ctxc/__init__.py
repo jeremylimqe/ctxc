@@ -1,0 +1,1 @@
+"""Compile explicitly selected filesystem content into deterministic context blocks."""
