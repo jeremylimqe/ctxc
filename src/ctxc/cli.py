@@ -1,4 +1,3 @@
-"""Minimal filesystem-to-context compiler; experimental v0.0.1."""
 from __future__ import annotations
 
 import argparse

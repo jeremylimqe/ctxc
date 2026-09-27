@@ -8,3 +8,4 @@ Requires Python 3.14+.
 
 ```bash
 pip install ctxc
+```
